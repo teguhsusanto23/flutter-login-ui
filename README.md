@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Capture :
-![alt text](https://github.com/teguhsusanto23/flutter-login-ui/snapshot/Screenshot_1591772967.png)
-![alt text](https://github.com/teguhsusanto23/flutter-login-ui/snapshot/Screenshot_1591772975.png)
-![alt text](https://github.com/teguhsusanto23/flutter-login-ui/snapshot/Screenshot_1591773004.png)
+![alt text](https://github.com/teguhsusanto23/flutter-login-ui/blob/master/snapshot/Screenshot_1591772967.png)
+![alt text](https://github.com/teguhsusanto23/flutter-login-ui/blob/master/snapshot/Screenshot_1591772975.png)
+![alt text](https://github.com/teguhsusanto23/flutter-login-ui/blob/master/snapshot/Screenshot_1591773004.png)
